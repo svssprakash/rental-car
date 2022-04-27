@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'theitvideos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCA6B5FEFACC4719965E7E113E698F80 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2CEFC558FEE46D698CDA2B63D9C8399 }}
           package: .
